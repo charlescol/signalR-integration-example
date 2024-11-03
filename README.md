@@ -14,4 +14,4 @@ In the New screen, type SignalR Service in the search box and press enter.Select
 Azure SignalR Service can be configured in different modes. In order to be able to use serverless, it needs to be configured in Serverless mode.
 Then go to Settings/Connection Strings/and copy the connection strings in access key section.
 
-**The entire implementation of the tutorial is detailed here : https://charlescol.wordpress.com/2021/08/18/example-post-3/**
+**The entire implementation of the tutorial is detailed here : [https://charlescol.wordpress.com/2021/08/18/example-post-3](https://charlescolella.com/2021/08/18/signalr-tuto-1/)/**
